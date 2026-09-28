@@ -21,14 +21,15 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/JyNC-vUxJRFyDhCPzWKr0ib9QxLB1kzCSPpuY_pbdME/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dzNzY2hvb2xzLmNv/bS9qcy9pbWdfamF2/YXNjcmlwdF80ODAu/anBn" height="30 </div>
+  <img src="https://imgs.search.brave.com/JyNC-vUxJRFyDhCPzWKr0ib9QxLB1kzCSPpuY_pbdME/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dzNzY2hvb2xzLmNv/bS9qcy9pbWdfamF2/YXNjcmlwdF80ODAu/anBn" 
+  height="30 />
 
 </div>
 
-
 #
-
+----
 ###
+
 <p align="center">
 <i>"A tecnologia move o mundo?"</i> 
 </p>
