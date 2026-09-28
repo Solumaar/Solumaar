@@ -29,8 +29,8 @@
 
 #
 <p align="left">
-Atualmente sou estudante de Informatica para Internet no IFPE campus Jaboatão dos Guararapes. Sou uma pessoa dedicada, responsável e tenho amor pela tecnologia. 
-Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente sempre buscando algo novo.
+Olá, me chamo Lilian sou estudante de IPI (Informática para Internet) no IFPE campus Jaboatão dos Guararapes.
+Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, e aqui no no Github cada repositório é uma aprendizado novo.
 
 
 #
@@ -48,8 +48,6 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
