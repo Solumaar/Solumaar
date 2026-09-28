@@ -12,28 +12,19 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 
 #
-<h3 align="left">My Stack:</h3> <div>
+
+<h3 align="center">My Stack:</h3> <div>
+<div align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://imgs.search.brave.com/JyNC-vUxJRFyDhCPzWKr0ib9QxLB1kzCSPpuY_pbdME/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dzNzY2hvb2xzLmNv/bS9qcy9pbWdfamF2/YXNjcmlwdF80ODAu/anBn" height="30" alt="csharp logo"  />
+  <img src="https://imgs.search.brave.com/JyNC-vUxJRFyDhCPzWKr0ib9QxLB1kzCSPpuY_pbdME/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dzNzY2hvb2xzLmNv/bS9qcy9pbWdfamF2/YXNjcmlwdF80ODAu/anBn" height="30 </div>
+
 </div>
 
-
-#
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solumaar/duque31/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solumaar/duque31/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/solumaar/output/pacman-contribution-graph.svg">
-</picture>
 
 #
 
